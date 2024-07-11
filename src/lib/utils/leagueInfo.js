@@ -9,6 +9,8 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to Deflated balls, where only the saltiest and most toxic survive. Go and get fucked.</p>
 
+  <iframe src="https://onedrive.live.com/embed?resid=FC75EED46A963CC5%211741&authkey=!APxa5_wCT-eojc8&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
+
 `;
 
 /*   STEP 3   */
