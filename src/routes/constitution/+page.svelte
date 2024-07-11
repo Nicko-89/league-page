@@ -237,7 +237,6 @@
     <ol>
         <li>Points For</li>
         <li>Head 2 Head Record</li>
-        <li>Division Record</li>
         <li>Total Points Against</li>
         <li>Coin Flip</li>
         <li>Duel to the death</li>
